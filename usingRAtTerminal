@@ -1,0 +1,18 @@
+R commands at terminal
+1. make a new directory i.e. create a new directory called 'basics'
+$ mkdir basics
+
+2. change directory at the terminal to basics folder
+$ cd basics
+
+R commands or function at the console
+
+1. List all objects in R environment
+> ls()
+
+2. Remove object, some objects or all objects
+
+> rm(student1name)
+> rm(student_name, studentName) # remove some objects
+> rm(list = ls()) # remove all
+
