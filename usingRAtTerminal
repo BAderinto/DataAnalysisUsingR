@@ -15,4 +15,3 @@ R commands or function at the console
 > rm(student1name)
 > rm(student_name, studentName) # remove some objects
 > rm(list = ls()) # remove all
-
