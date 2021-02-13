@@ -75,7 +75,11 @@ z <- c(1,3,4,5,8,7,9,11,13,15)
 
 # 1.3.1 Operations on Vectors ----
 
+<<<<<<< HEAD
 # 1.3.1.1 Arithmetic operations ----
+=======
+# 1.3.1.1 Arithmetic operations
+>>>>>>> f85db505c6907e9eb2aeaba27f5b5ef32187bb87
 x+z
 z/x
 x*z #etc
@@ -100,6 +104,7 @@ log_v | not_vector
 # ||	Logical OR
 log_v || not_vector
 
+
 # 1.3.1.3 Assignment Operators ----
 
 # leftward assignment
@@ -120,8 +125,5 @@ x3 = 2
 # ->, ->>	Rightwards assignment
 10 -> x4
 23 ->> x5
-
-
-
 
 

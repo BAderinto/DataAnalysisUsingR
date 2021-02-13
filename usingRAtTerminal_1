@@ -15,3 +15,10 @@ R commands or function at the console
 > rm(student1name)
 > rm(student_name, studentName) # remove some objects
 > rm(list = ls()) # remove all
+
+=======
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+>>>>>>> f85db505c6907e9eb2aeaba27f5b5ef32187bb87
